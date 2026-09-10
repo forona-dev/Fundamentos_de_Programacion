@@ -14,19 +14,41 @@ while inicio ==1:
         print("Opción invalida. Por favor escoge un número del 1-5")
     else:
         if opcion == 1:
-            print(f"Opción {opcion} Tuplas\n")
+            print(f"Opción {opcion}: Tuplas\n")
+            def suma_tupla(numeros_new):
+                resultado = 0
+                for e in numeros_new:
+                    resultado = resultado + e
+                return resultado
 
+            numeros = (35, 20, 55, 109, 70, 19, 43, 29)
+            try:
+                num_1 = int(input("Ingresa un número"))
+                num_2 = int(input("Ingresa otro número"))
+            except ValueError:
+                print("Valor invalido. Ingresa números enteros")
+            else:
+                numeros_new = numeros + (num_1, num_2)
+            lista_num = list(numeros_new)
+            lista_num.sort(reverse=True)
+            numeros_ord = tuple(lista_num)
+
+            print(f"El tercer elemento de la tupla es: {numeros[2]}")
+            print(f"El tercer elemento de la tupla es: {numeros[2]}")
+            print(f"Tupla actualizada: {numeros_new}")
+            print(f"Tupla ordenada: {lista_num}")
+            print(f"La suma de todos los elementos es: {suma_tupla(numeros_new)}")
             print("____________________________________________________________________________")
         elif opcion == 2:
-            print(f"Opción {opcion} Diccionarios\n")
+            print(f"Opción {opcion}: Diccionarios\n")
 
             print("____________________________________________________________________________")
         elif opcion == 3:
-            print(f"Opción {opcion} Excepciones\n")
+            print(f"Opción {opcion}: Excepciones\n")
 
             print("____________________________________________________________________________")
         elif opcion == 4:
-            print(f"Opción {opcion} Strings\n")
+            print(f"Opción {opcion}: Strings\n")
 
             print("____________________________________________________________________________")
         elif opcion == 5:
