@@ -2,5 +2,5 @@
 
 Este archivo va a contener la estructura de la materia de Fundamentos de programación
 Los archivos hasta el momento son:
-1. El ejercicio de la Tabla de Pitágoras esta en Semana_4 > Tabla_de_pitagoras.py
-2. Los ejercicios extra están en Semana_4 > extras_semana4.ipynb
+1. El ejercicio del menú modular está en Semana_5 -> actividad4_menu_modular.py
+2. Los ejercicios extra (oficiales y castigo) están en Semana_5 -> extras_semana5.ipynb 
