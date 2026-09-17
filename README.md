@@ -2,5 +2,5 @@
 
 Este archivo va a contener la estructura de la materia de Fundamentos de programación
 Los archivos hasta el momento son:
-1. El ejercicio del menú modular está en Semana_5 -> actividad4_menu_modular.ipynb
-2. Los ejercicios extra (oficiales y castigo) están en Semana_5 -> extras_semana5.ipynb 
+1. La entrega de la semana está en Semana_6 -> Entregas_semana_6
+2. *Nota intercambie los 25 ejercicios de castigo por el proyecto final del certificado (Semana_6 -> Ejercicios_semana_6 -> Proyecto_certificacion_gato.ipynb)
