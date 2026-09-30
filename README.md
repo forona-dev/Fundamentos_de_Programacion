@@ -2,6 +2,7 @@
 
 Este archivo va a contener la estructura de la materia de Fundamentos de programación
 Los archivos hasta el momento son:
-1. La entrega de la semana está en Semana_6 -> Entregas_semana_6.
-2. *Nota intercambie los 25 ejercicios de castigo por el proyecto final del certificado están en Semana_6 -> Entregas_semana_6 -> Proyecto_certificacion_gato.ipynb.
-3. *Nota Terminé haciendo los de castigo tambien porque me aburrí jajaja. Están en Semana_6 -> ejercicios_castigo_s6.ipynb.
+1. El entregable de la semana 7 esta en la carpeta Semana_7 -> Entrega_Final.
+2. El código fuente esta en Entrega_Final -> Entrega_Final_Proyecto.ipynb
+3. El reporte academico esta en Entrega_Final -> Reporte proyecto (fase2).
+4. Archivos de prueba Entrega_Final -> (usuarios.txt, Ingresos.txt, Egresos.txt, Resumen_ingresos.txt, Resumen_egresos.txt, Reporte.txt)
